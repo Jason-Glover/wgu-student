@@ -1,0 +1,18 @@
+project_name = ""
+aws_region   = ""
+
+vpc_cidr           = ""
+public_subnet_cidr = ""
+app_subnet_cidr    = ""
+mgmt_subnet_cidr   = ""
+onprem_cidr        = ""
+
+trusted_admin_cidr  = ""
+customer_gateway_ip = ""
+
+ami_id        = ""
+instance_type = ""
+key_name      = ""
+
+tunnel1_preshared_key = ""
+tunnel2_preshared_key = ""
